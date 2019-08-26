@@ -1,0 +1,5 @@
+C:\Users\DUHO\Documents\SharpDevelop Projects\DesignPatterns\StoreProject\obj\Debug\StoreProject.csprojResolveAssemblyReference.cache
+C:\Users\DUHO\Documents\SharpDevelop Projects\DesignPatterns\StoreProject\bin\Debug\StoreProject.dll
+C:\Users\DUHO\Documents\SharpDevelop Projects\DesignPatterns\StoreProject\bin\Debug\StoreProject.pdb
+C:\Users\DUHO\Documents\SharpDevelop Projects\DesignPatterns\StoreProject\obj\Debug\StoreProject.dll
+C:\Users\DUHO\Documents\SharpDevelop Projects\DesignPatterns\StoreProject\obj\Debug\StoreProject.pdb

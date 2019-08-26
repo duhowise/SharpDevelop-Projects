@@ -1,0 +1,8 @@
+C:\Users\DUHO\Documents\SharpDevelop Projects\AsyncReadFile\AsyncReadFile\obj\Debug\AsyncReadFile.csprojResolveAssemblyReference.cache
+C:\Users\DUHO\Documents\SharpDevelop Projects\AsyncReadFile\AsyncReadFile\obj\Debug\AsyncReadFile.MainForm.resources
+C:\Users\DUHO\Documents\SharpDevelop Projects\AsyncReadFile\AsyncReadFile\obj\Debug\AsyncReadFile.csproj.GenerateResource.Cache
+C:\Users\DUHO\Documents\SharpDevelop Projects\AsyncReadFile\AsyncReadFile\bin\Debug\AsyncReadFile.exe.config
+C:\Users\DUHO\Documents\SharpDevelop Projects\AsyncReadFile\AsyncReadFile\bin\Debug\AsyncReadFile.exe
+C:\Users\DUHO\Documents\SharpDevelop Projects\AsyncReadFile\AsyncReadFile\bin\Debug\AsyncReadFile.pdb
+C:\Users\DUHO\Documents\SharpDevelop Projects\AsyncReadFile\AsyncReadFile\obj\Debug\AsyncReadFile.exe
+C:\Users\DUHO\Documents\SharpDevelop Projects\AsyncReadFile\AsyncReadFile\obj\Debug\AsyncReadFile.pdb

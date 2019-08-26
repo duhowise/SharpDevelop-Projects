@@ -1,0 +1,6 @@
+C:\Users\DUHO\Documents\SharpDevelop Projects\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.csprojResolveAssemblyReference.cache
+C:\Users\DUHO\Documents\SharpDevelop Projects\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe.config
+C:\Users\DUHO\Documents\SharpDevelop Projects\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.exe
+C:\Users\DUHO\Documents\SharpDevelop Projects\ObserverPattern\ObserverPattern\bin\Debug\ObserverPattern.pdb
+C:\Users\DUHO\Documents\SharpDevelop Projects\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.exe
+C:\Users\DUHO\Documents\SharpDevelop Projects\ObserverPattern\ObserverPattern\obj\Debug\ObserverPattern.pdb

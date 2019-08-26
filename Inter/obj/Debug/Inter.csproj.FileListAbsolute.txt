@@ -1,0 +1,6 @@
+C:\Users\DUHO\Documents\SharpDevelop Projects\Inter\bin\Debug\Inter.exe.config
+C:\Users\DUHO\Documents\SharpDevelop Projects\Inter\bin\Debug\Inter.exe
+C:\Users\DUHO\Documents\SharpDevelop Projects\Inter\bin\Debug\Inter.pdb
+C:\Users\DUHO\Documents\SharpDevelop Projects\Inter\obj\Debug\Inter.csprojResolveAssemblyReference.cache
+C:\Users\DUHO\Documents\SharpDevelop Projects\Inter\obj\Debug\Inter.exe
+C:\Users\DUHO\Documents\SharpDevelop Projects\Inter\obj\Debug\Inter.pdb

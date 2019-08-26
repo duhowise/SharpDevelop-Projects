@@ -1,0 +1,6 @@
+C:\Users\DUHO\Documents\SharpDevelop Projects\TestLogging\obj\Debug\TestLogging.csprojResolveAssemblyReference.cache
+C:\Users\DUHO\Documents\SharpDevelop Projects\TestLogging\bin\Debug\TestLogging.exe.config
+C:\Users\DUHO\Documents\SharpDevelop Projects\TestLogging\bin\Debug\TestLogging.exe
+C:\Users\DUHO\Documents\SharpDevelop Projects\TestLogging\bin\Debug\TestLogging.pdb
+C:\Users\DUHO\Documents\SharpDevelop Projects\TestLogging\obj\Debug\TestLogging.exe
+C:\Users\DUHO\Documents\SharpDevelop Projects\TestLogging\obj\Debug\TestLogging.pdb

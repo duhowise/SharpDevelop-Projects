@@ -1,0 +1,6 @@
+C:\Users\DUHO\Documents\SharpDevelop Projects\BackgroundWorker\DataService\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+C:\Users\DUHO\Documents\SharpDevelop Projects\BackgroundWorker\DataService\obj\Debug\DataService.pdb
+C:\Users\DUHO\Documents\SharpDevelop Projects\BackgroundWorker\DataService\bin\DataService.dll.config
+C:\Users\DUHO\Documents\SharpDevelop Projects\BackgroundWorker\DataService\bin\DataService.dll
+C:\Users\DUHO\Documents\SharpDevelop Projects\BackgroundWorker\DataService\bin\DataService.pdb
+C:\Users\DUHO\Documents\SharpDevelop Projects\BackgroundWorker\DataService\obj\Debug\DataService.dll

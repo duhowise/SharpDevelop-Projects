@@ -1,0 +1,7 @@
+C:\Users\DUHO\Documents\SharpDevelop Projects\DesignPatterns\CustomerFactory\obj\Debug\CustomerFactory.csprojResolveAssemblyReference.cache
+C:\Users\DUHO\Documents\SharpDevelop Projects\DesignPatterns\CustomerFactory\bin\Debug\CustomerFactory.dll
+C:\Users\DUHO\Documents\SharpDevelop Projects\DesignPatterns\CustomerFactory\bin\Debug\CustomerFactory.pdb
+C:\Users\DUHO\Documents\SharpDevelop Projects\DesignPatterns\CustomerFactory\bin\Debug\StoreProject.dll
+C:\Users\DUHO\Documents\SharpDevelop Projects\DesignPatterns\CustomerFactory\bin\Debug\StoreProject.pdb
+C:\Users\DUHO\Documents\SharpDevelop Projects\DesignPatterns\CustomerFactory\obj\Debug\CustomerFactory.dll
+C:\Users\DUHO\Documents\SharpDevelop Projects\DesignPatterns\CustomerFactory\obj\Debug\CustomerFactory.pdb

@@ -1,0 +1,9 @@
+C:\Users\DUHO\Documents\SharpDevelop Projects\RedisApp\RedisApp\bin\Debug\RedisApp.exe.config
+C:\Users\DUHO\Documents\SharpDevelop Projects\RedisApp\RedisApp\bin\Debug\RedisApp.exe
+C:\Users\DUHO\Documents\SharpDevelop Projects\RedisApp\RedisApp\bin\Debug\RedisApp.pdb
+C:\Users\DUHO\Documents\SharpDevelop Projects\RedisApp\RedisApp\bin\Debug\MetroFramework.Design.dll
+C:\Users\DUHO\Documents\SharpDevelop Projects\RedisApp\RedisApp\bin\Debug\MetroFramework.dll
+C:\Users\DUHO\Documents\SharpDevelop Projects\RedisApp\RedisApp\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\DUHO\Documents\SharpDevelop Projects\RedisApp\RedisApp\obj\Debug\RedisApp.csprojResolveAssemblyReference.cache
+C:\Users\DUHO\Documents\SharpDevelop Projects\RedisApp\RedisApp\obj\Debug\RedisApp.exe
+C:\Users\DUHO\Documents\SharpDevelop Projects\RedisApp\RedisApp\obj\Debug\RedisApp.pdb

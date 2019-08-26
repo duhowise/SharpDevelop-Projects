@@ -1,0 +1,8 @@
+C:\Users\DUHO\Documents\SharpDevelop Projects\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.csprojResolveAssemblyReference.cache
+C:\Users\DUHO\Documents\SharpDevelop Projects\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.MainForm.resources
+C:\Users\DUHO\Documents\SharpDevelop Projects\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.csproj.GenerateResource.Cache
+C:\Users\DUHO\Documents\SharpDevelop Projects\BackgroundWorker\BackgroundWorker\bin\Debug\BackgroundWorker.exe.config
+C:\Users\DUHO\Documents\SharpDevelop Projects\BackgroundWorker\BackgroundWorker\bin\Debug\BackgroundWorker.exe
+C:\Users\DUHO\Documents\SharpDevelop Projects\BackgroundWorker\BackgroundWorker\bin\Debug\BackgroundWorker.pdb
+C:\Users\DUHO\Documents\SharpDevelop Projects\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.exe
+C:\Users\DUHO\Documents\SharpDevelop Projects\BackgroundWorker\BackgroundWorker\obj\Debug\BackgroundWorker.pdb
